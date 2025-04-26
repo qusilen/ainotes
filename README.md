@@ -1,2 +1,2 @@
 # ai notes
-nump pandas vb notlarim
+numpy pandas vb. notlarim
